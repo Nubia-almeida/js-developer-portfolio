@@ -34,31 +34,26 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Criação de uma Pokedex durante curso da DIO.me",
+      "url": "https://github.com/Nubia-almeida/pokedex",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Jogo de Cartas do Yu-Gi-Oh",
+      "url": "https://github.com/Nubia-almeida/jogo-de-cartas-yu-gi-oh",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Empreendedora",
+      "period": "2015 - 2023",
+      "description": "Cuidava da escolha de fornecedores e pedidos, contas a pagar, venda e entrega de produtos, além de orgazinação de estoque."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-    },
-    {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Auxiliar Administrativo / ZYON Technologys",
+      "period": "2013 - 2015",
+      "description": "Atuava da área administrativa e financeira da empresa, contribuindo para o bom andamento da trabalho tanto na sede quanto na filial."
     }
   ]
 }
