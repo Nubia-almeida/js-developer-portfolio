@@ -60,6 +60,8 @@ function updateProfessionalExperience(profileData) {
         `
     }).join('')
 }
+/*
+console.log(profileData)
 
 (async () => {
     const profileData = await fetchProfileData()
@@ -69,4 +71,16 @@ function updateProfessionalExperience(profileData) {
     updateLanguages(profileData)
     updatePortfolio(profileData)
     updateProfessionalExperience(profileData)
-})()
+})()*/
+
+document.addEventListener('DOMContentLoaded', async () => {
+  const profileData = await fetchProfileData()
+  console.log("Dados recebidos:", profileData)
+
+  updateProfileInfo(profileData)
+  updateSoftSkills(profileData)
+  updateHardSkills(profileData)
+  updateLanguages(profileData)
+  updatePortfolio(profileData)
+  updateProfessionalExperience(profileData)
+})

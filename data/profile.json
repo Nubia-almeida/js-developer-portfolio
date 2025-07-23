@@ -7,18 +7,18 @@
   "email": "nubia.mary.82@gmail.com",
   "skills": {
     "hardSkills": [
-      {
-        "name": "HTML",
-        "logo": "https://github.com/Nubia-almeida/js-developer-portfolio/blob/main/data/imgs/html.png"
-      },
-      {
-        "name": "CSS",
-        "logo": "https://github.com/Nubia-almeida/js-developer-portfolio/blob/main/data/imgs/css.png"
-      },
-      {
-        "name": "Javascript",
-        "logo": "https://github.com/Nubia-almeida/js-developer-portfolio/blob/main/data/imgs/js.png"
-      }
+       {
+      "name": "HTML",
+      "logo": "https://raw.githubusercontent.com/Nubia-almeida/js-developer-portfolio/main/data/imgs/html.png"
+     },
+     {
+     "name": "CSS",
+      "logo": "https://raw.githubusercontent.com/Nubia-almeida/js-developer-portfolio/main/data/imgs/css.png"
+     },
+     {
+      "name": "Javascript",
+      "logo": "https://raw.githubusercontent.com/Nubia-almeida/js-developer-portfolio/main/data/imgs/js.png"
+     }
     ],
     "softSkills": [
       "Empatia",
